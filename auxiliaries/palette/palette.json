@@ -1,0 +1,84 @@
+{
+  "colors": [
+    {
+      "name": "aqua",
+      "rgb": [0, 255, 255],
+      "text_color_rgb": [0, 0, 0]
+    },
+    {
+      "name": "black",
+      "rgb": [0, 0, 0],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "blue",
+      "rgb": [0, 0, 255],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "fuchsia",
+      "rgb": [255, 0, 255],
+      "text_color_rgb": [0, 0, 0]
+    },
+    {
+      "name": "gray",
+      "rgb": [128, 128, 128],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "green",
+      "rgb": [0, 128, 0],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "lime",
+      "rgb": [0, 255, 0],
+      "text_color_rgb": [0, 0, 0]
+    },
+    {
+      "name": "maroon",
+      "rgb": [128, 0, 0],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "navy",
+      "rgb": [0, 0, 128],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "olive",
+      "rgb": [128, 128, 0],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "purple",
+      "rgb": [128, 0, 128],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "red",
+      "rgb": [255, 0, 0],
+      "text_color_rgb": [0, 0, 0]
+    },
+    {
+      "name": "silver",
+      "rgb": [192, 192, 192],
+      "text_color_rgb": [0, 0, 0]
+    },
+    {
+      "name": "teal",
+      "rgb": [0, 128, 128],
+      "text_color_rgb": [255, 255, 255]
+    },
+    {
+      "name": "white",
+      "rgb": [255, 255, 255],
+      "text_color_rgb": [0, 0, 0]
+    },
+    {
+      "name": "yellow",
+      "rgb": [255, 255, 0],
+      "text_color_rgb": [0, 0, 0]
+    }
+  ]
+}
